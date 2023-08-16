@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ru.aston","l":"CustomArrayList"},{"p":"ru.aston","l":"CustomList"},{"p":"ru.aston.util","l":"QuickSortUtil"}]
