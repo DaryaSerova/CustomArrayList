@@ -13,6 +13,8 @@ public class TestObject implements Comparable<TestObject>{
 
     private String name;
 
+    private Integer year;
+
     private LocalDateTime createDate;
 
     @Override
